@@ -1,0 +1,14 @@
+<html>
+  <img src="file:///C:/Users/dell/Downloads/MUSIC%20CHANNEL.gif" alt="My cool gif" width="1205" height="300">
+<p><meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <form action="#" method="get">
+        <input type="text" name="query" placeholder="Enter your search..">
+        <button type="submit">Search</button>
+    </form>
+    <div id="search-results" align="right" width="100px" height="100px">
+        <!-- Search results will be displayed here -->
+    </div></p>
+<title>Sonic Strum</title>
+</html>
